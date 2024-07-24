@@ -1,0 +1,29 @@
+{
+
+  "name": "Adam",
+  "address": {
+    "unit": 5,
+    "road": "McDonald road",
+    "city": "New York"
+  },
+  "books": [
+    {
+      "bookName": "Histroy of Human",
+      "bookAuthor": "James Shark",
+      "isDigital": false,
+      "yearofPublication": 2005
+    },
+    {
+      "bookName": "Intro to Software Engineering",
+      "bookAuthor": "Wale Johnson",
+      "isDigital": true,
+      "yearofPublication": 2020
+    },
+    {
+      "bookName": "Intro to Software Engineering",
+      "bookAuthor": "Wale Johnson",
+      "isDigital": true,
+      "yearofPublication": 2020
+    }
+  ]
+}
